@@ -1,4 +1,4 @@
-# Quick Cal 
+# Quick Cal (Java)
 ### Description:
 After the completion of my Java college course i decided to test my skills by creating a calculator using java GUI. I initially considered the project to be a breeze as it sounded so basic. However, i quickly realized that i was breaking down the problem using human approaches and not computer logics. The Phrase "How does the computer know ...." became my lingo over the project. I had to divide teh user input into signs and numbers and take the required action with each entered item. between juggling between classes and free time it took a total of a month to complete.
 
